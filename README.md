@@ -1,0 +1,18 @@
+Hello there.
+
+I have started working on Backstage a little while ago and here is the progress that I have made till now-
+
+1) I have successfully installed all the necessary dependencies, which include curl, git, yarn, docker desktop, node, etc. which are required to run Backstage on your personal device.
+2) I have successfully created my first, Backstage application named 'my-backstage-app'.
+3) I have also installed PostgreSQL on my system.
+4) I have also linked my GitHub account to Backstage.
+5) I have created SSO and authentication on Backstage.
+6) I have created and customized the 'app-config.yaml' and 'app-config.local.yaml' file.
+7) I have created and customized the frontend of Backstage through which I have created new resources and used a Node.js template there.
+8) I am currently understanding what plugins are.
+
+This is all the work done from my end and I know that this is just the beginning :)
+
+Personally speaking, I am loving how Backstage is working and what it has to offer.
+Solving bugs and errors along the way, going into depth why certain features were not running while setting up Backstage or finding out the root cause, intrigued me due to which I am 
+now more interested towards knowing more about it.
